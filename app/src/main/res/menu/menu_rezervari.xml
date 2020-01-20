@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/adauga_rezervare" android:title="@string/adauga_rezervare"></item>
+    <item android:id="@+id/preluare_online" android:title="@string/preluare_rezervari_online"></item>
+    <item android:id="@+id/salvare_bd" android:title="@string/salvare_baza_de_date"></item>
+    <item android:id="@+id/grafic" android:title="@string/grafic"></item>
+    <item android:id="@+id/despre" android:title="@string/despre"></item>
+</menu>

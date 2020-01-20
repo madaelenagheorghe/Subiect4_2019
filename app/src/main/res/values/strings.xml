@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Subiect4_2019</string>
+    <string name="adauga_rezervare">Adauga rezervare</string>
+    <string name="preluare_rezervari_online">Preluare rezervari online</string>
+    <string name="salvare_baza_de_date">Salvare baza de date</string>
+    <string name="grafic">Grafic</string>
+    <string name="despre">Despre</string>
+    <string name="author">Author: Gheorghe Elena Madalina</string>
+    <string name="id_rezervare">Id rezervare:</string>
+    <string name="nume_client">Nume client:</string>
+    <string name="tip_camera">Tip camera:</string>
+    <string name="durata_sejur">Durata sejur:</string>
+    <string name="suma_plata">Suma plata:</string>
+    <string name="adauga">Adauga</string>
+    <array name="spinner_options">
+        <item>S</item>
+        <item>D</item>
+    </array>
+</resources>
